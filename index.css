@@ -1,0 +1,18 @@
+body {
+  background: black;
+  overflow: hidden;
+  margin: 0;
+  padding: 0;
+}
+
+.clockDisplay {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #477ae8;
+  font-size: 4rem;
+  font-weight: 700;
+  letter-spacing: 7px;
+}
